@@ -1,0 +1,10 @@
+100 milliseconds:  FlyingBeetle_Idle_00000.png
+100 milliseconds:  FlyingBeetle_Idle_00001.png
+100 milliseconds:  FlyingBeetle_Idle_00003.png
+60  milliseconds:  FlyingBeetle_Idle_00004.png
+40  milliseconds:  FlyingBeetle_Idle_00005.png
+100 milliseconds:  FlyingBeetle_Idle_00006.png
+100 milliseconds:  FlyingBeetle_Idle_00007.png
+100 milliseconds:  FlyingBeetle_Idle_00008.png
+100 milliseconds:  FlyingBeetle_Idle_00009.png
+100 milliseconds:  FlyingBeetle_Idle_00010.png

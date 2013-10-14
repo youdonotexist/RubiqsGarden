@@ -1,0 +1,14 @@
+60 milliseconds:  Burrow_Attack_00000.png
+70 milliseconds:  Burrow_Attack_00001.png
+20 milliseconds:  Burrow_Attack_00003.png
+40 milliseconds:  Burrow_Attack_00004.png
+30 milliseconds:  Burrow_Attack_00005.png
+60 milliseconds:  Burrow_Attack_00006.png
+50 milliseconds:  Burrow_Attack_00007.png
+50 milliseconds:  Burrow_Attack_00008.png
+50 milliseconds:  Burrow_Attack_00009.png
+40 milliseconds:  Burrow_Attack_00010.png
+40 milliseconds:  Burrow_Attack_00011.png
+60 milliseconds:  Burrow_Attack_00012.png
+60 milliseconds:  Burrow_Attack_00013.png
+60 milliseconds:  Burrow_Attack_00014.png
